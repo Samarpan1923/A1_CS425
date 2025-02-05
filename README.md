@@ -146,3 +146,16 @@ Using `mutex` ensures that concurrent access to these shared resources does not 
 - GeeksforGeeks - https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/
 - CS330 Operating System lectures on Multithreading
 
+### Declaration
+We, the undersigned students of CS425: Computer Networks, hereby declare that the code and written work submitted for Assignment 1: Chat Server with Groups and Private Messages is our own original work.
+
+We affirm that:
+
+- All references and inspirations (if any) have been properly acknowledged in the README file.
+This work was completed collaboratively as a group project while adhering to academic integrity guidelines.
+
+Student Names & Roll Numbers:
+Sarthak Paswan 220976
+Ritesh Hans 220893
+Samarpan Verma 220943
+
